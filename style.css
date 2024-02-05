@@ -1,0 +1,118 @@
+
+/* ////////////////////////////////////////////// */
+
+/* h2 {
+  font-size: 50px;
+  font-weight: bold;
+} */
+
+.student-name{
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+/* ////////////////////////////////////////////// */
+
+.main-content {
+  margin: 30px;
+  padding: 50px;
+}
+
+.profile-pic {
+  float: left;
+  margin-left: 120px;
+  border: 2px solid #957b5d;
+  max-width: 100%;
+  height: auto;
+  border-radius: 1000px;
+}
+
+.sub-content {
+  margin: 30px 120px 0px 160px;
+  padding: 20px;
+  background-color: #F5EEE6;
+  border-radius: 100px 100px 100px 100px;
+}
+
+.basic-info {
+  padding-left: 400px;
+  font-size: large;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+/* ////////////////////////////////////////////// */
+
+.about-me{
+  margin: 200px 200px 0px 200px;
+  border-radius: 0px 100px 100px 100px;
+  padding: 60px;
+  background-color: cadetblue;
+  line-height: 40px;
+}
+.about-para{
+  font-size: 20px;
+  padding: 20px 60px;
+  text-align: justify;
+}
+.programming-languages{
+  padding-left: 150px;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+/* ////////////////////////////////////////////// */
+.education{
+  margin: 100px 200px 0px 200px;
+  border-radius: 100px 0px 100px 100px;
+  padding: 80px;
+  background-color: rgb(156, 141, 186);
+  line-height: 40px;
+}
+.edu-info{
+  padding-top: 20px;
+  padding-left: 200px;
+  font-size: x-large;
+}
+/* ////////////////////////////////////////////// */
+.projects{
+  margin: 100px 200px 0px 200px;
+  border-radius: 100px 100px 0px 100px;
+  padding: 80px;
+  background-color: rgb(186, 141, 169);
+  line-height: 50px;
+}
+.project-content{
+  padding-left: 200px;
+  line-height: 40px;
+  font-size: x-large;
+}
+
+/* ////////////////////////////////////////////// */
+.contact-info{
+  margin: 100px 200px 0px 200px;
+  border-radius: 100px 100px 100px 0px;
+  padding: 80px;
+  background-color: rgb(186, 184, 141);
+  line-height: 50px;
+}
+.contact-content{
+  padding-left: 200px;
+  line-height: 40px;
+  font-size: larger;
+}
+
+/* ////////////////////////////////////////////// */
+.footer{
+  margin-top: 100px;
+  padding: 20px;
+  background-color: rgb(195, 103, 103);
+  position: sticky;
+}
+.copy-right{
+  font-size: larger;
+  padding-left: 600px;
+}
+
+/*//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
